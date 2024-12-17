@@ -5,7 +5,7 @@
     {
         public void Update(Item item)
         {
-            
+            // rien à mettre a jour; la qualité et le délai d'expiration reste constant
         }
     }
 }

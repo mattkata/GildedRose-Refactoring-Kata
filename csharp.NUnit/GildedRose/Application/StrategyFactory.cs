@@ -13,6 +13,7 @@ namespace GildedRoseKata.Application
         {
             return itemName switch
             {
+                "Sulfuras, Hand of Ragnaros" => new SulfurasStrategy(),
                 "Backstage passes to a TAFKAL80ETC concert" => new BackstagePassStrategy(),
                 "Aged Brie" => new AgedBrieStrategy(),
                 _ => new BasiqueItemStrategy(),
