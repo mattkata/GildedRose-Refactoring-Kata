@@ -20,7 +20,7 @@ namespace GildedRoseKata.Domaine
             {
                 item.Quality = Math.Min(50, item.Quality + 3);
             }
-            else if (item.Quality <= 10)
+            else if (item.SellIn <= 10)
             {
                 item.Quality = Math.Min(50, item.Quality + 2);
             }
