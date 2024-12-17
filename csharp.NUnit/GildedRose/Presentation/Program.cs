@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using GildedRoseKata.Application;
+using GildedRoseKata.Domaine;
 
-namespace GildedRoseKata;
+namespace GildedRoseKata.Presentation;
 
 public class Program
 {

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using GildedRoseKata.Domaine;
 
-namespace GildedRoseKata;
+namespace GildedRoseKata.Application;
 
 public class GildedRose
 {

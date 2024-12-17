@@ -1,5 +1,3 @@
-using GildedRoseKata;
-
 using System;
 using System.IO;
 using System.Text;
@@ -8,6 +6,7 @@ using System.Threading.Tasks;
 using VerifyNUnit;
 
 using NUnit.Framework;
+using GildedRoseKata.Presentation;
 
 namespace GildedRoseTests;
 
